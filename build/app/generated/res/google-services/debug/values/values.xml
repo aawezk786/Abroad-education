@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">867962858531-d7t51gha62n6otkgajcgrccrukfu8esm.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://theofyglobal-1581949789112.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">867962858531</string>
+    <string name="google_api_key" translatable="false">AIzaSyDgVkb3x8xeviebjHwQHGR1Z7AwZj-O0qI</string>
+    <string name="google_app_id" translatable="false">1:867962858531:android:93e654a8fa22a19930d596</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDgVkb3x8xeviebjHwQHGR1Z7AwZj-O0qI</string>
+    <string name="google_storage_bucket" translatable="false">theofyglobal-1581949789112.appspot.com</string>
+    <string name="project_id" translatable="false">theofyglobal-1581949789112</string>
+</resources>

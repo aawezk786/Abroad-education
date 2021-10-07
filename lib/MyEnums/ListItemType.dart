@@ -1,0 +1,1 @@
+enum ListItemType { OPPORTUNITY, AD }
